@@ -1,5 +1,22 @@
 # 🩺 DiaNexus - Diabetes Prediction System
 
+---
+
+## 🌐 Live Demo
+
+<p align="center">
+  <a href="https://dianexus.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Launch%20DiaNexus-Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo">
+  </a>
+</p>
+
+<p align="center">
+  <strong>🔗 Try the Diabetes Prediction System online</strong><br><br>
+  <a href="https://dianexus.streamlit.app/">https://dianexus.streamlit.app/</a>
+</p>
+
+---
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange?style=for-the-badge&logo=scikitlearn" />
